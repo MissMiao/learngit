@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-Git say hello.
+Git say merge.

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fadfad hello world
+=======
+fadfadadd /usr/bin/env
+>>>>>>> db98de83b1c228affbfd2d18b522f38b4093a0c6
